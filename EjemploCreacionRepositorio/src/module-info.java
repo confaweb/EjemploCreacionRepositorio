@@ -5,4 +5,9 @@
  * 
  */
 module EjemploCreacionRepositorio {
+	requires junit;
+	
+	
+	
+	
 }
